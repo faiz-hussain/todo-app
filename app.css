@@ -14,15 +14,19 @@
 }  
 
 .list-group-item {
-  background-color: rgba(255,255,255,.8)
+  background-color: rgba(255,255,255,.8);
 }
 
 h1{
   text-decoration: underline;
 }
 
+label {
+  margin-left: 1%;
+}
+
 .form-control{
-  background-color: rgba(255,255,255,.7)
+  background-color: rgba(255,255,255,.7);
 }
 
 .credits{
